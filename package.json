@@ -18,9 +18,6 @@
     "url": "https://github.com/patw0929/react-intl-tel-input/issues"
   },
   "main": "dist/main.js",
-  "dependencies": {
-    "react": "~0.13.3"
-  },
   "devDependencies": {
     "babel": "^4.0.0",
     "babel-eslint": "^3.1.17",
